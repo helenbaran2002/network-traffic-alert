@@ -1,0 +1,19 @@
+{
+  "server": "fade",
+  "interface": "eth0",
+  "fiveminute": 256,
+  "hour": 2048,
+  "mail": {
+    "transporter": {
+      "host": "smtp.abc.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "",
+        "pass": ""
+      }
+    },
+    "from": "",
+    "to": ""
+  }
+}
